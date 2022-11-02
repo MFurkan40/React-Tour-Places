@@ -68,3 +68,59 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Tour Places Project
+
+## Description
+
+Project aims to create a tour places app.
+
+## Project Skeleton
+
+```
+Tour Project(folder)
+|
+|----readme.md
+|
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       ├── cards
+│    │       │     ├── Main.css
+│    │       │     └── Main.js
+│    │       │     └── Card.js
+│    │       ├── header
+│    │       │     ├── Header.css
+│    │       │     └── Header.js
+│    │       └── navbar
+│    │             ├── Navbar.css
+│    │             └── Navbar.js
+│    ├── helper
+│    │       └── data.js
+│    ├── App.js
+│    ├── App.css
+│    ├── index.js
+│    └── index.css
+├── package.json
+└── yarn.lock
+```
+
+## Expected Outcome
+
+![Project 001 Snapshot](tour-project.gif)
+
+## Objective
+
+Build a Tour Project App using ReactJS.
+
+### At the end of the project, following topics are to be covered;
+
+- HTML
+
+- CSS
+
+- JS
+
+- ReactJS
